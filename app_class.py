@@ -1,3 +1,8 @@
+#eindopdracht Sudoku, Oktay Beyaz ID1G1A
+#Sudoku met vier verschillende levels
+#Datum begonnen: 22-10-2020, Datum afgerond: 26-10-2020
+
+
 import pygame, sys, requests
 import pygame, sys
 import requests
